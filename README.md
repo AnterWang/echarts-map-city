@@ -1,2 +1,1 @@
-# echarts-mapJson
-中国各省市县区地图json包和demo
+## 一些前端资源包-体积较大的
